@@ -219,7 +219,7 @@ a { color: inherit; text-decoration: none; }
 .hero-left { flex: 1; }
 .hero-right { flex-shrink: 0; }
 .hero-logo {
-  width: clamp(160px, 20vw, 260px);
+  width: clamp(220px, 50vw, 400px);
   height: auto;
   filter: drop-shadow(0 6px 40px rgba(200,90,26,0.45));
 }
